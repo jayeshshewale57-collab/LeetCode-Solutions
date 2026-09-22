@@ -1,45 +1,34 @@
-# LeetCode Problems in Java
+# LeetCode Solutions
 
-This repository contains my solutions to **LeetCode problems** solved using **Java**.
+My solutions to LeetCode problems written in Java.
 
 ## About
 
-I am using this repository to practice **Data Structures and Algorithms (DSA)** and improve my problem-solving skills.
+This repository contains my practice and solutions for
+Data Structures and Algorithms problems on LeetCode.
 
-The solutions cover different topics such as:
+## Topics Covered
 
-* Arrays
-* Strings
-* Linked Lists
-* Binary Trees
-* Searching
-* Sorting
-* Recursion
-* Hashing
-* Two Pointers
-* Stack and Queue
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- HashMap
+- HashSet
+- Recursion
+- Searching
+- Sorting
+
+## Progress
+
+Currently practicing Easy and Medium problems.
 
 ## Language
 
-* Java
+- Java
 
-## Purpose
+## LeetCode Profile
 
-* Practice LeetCode problems regularly
-* Improve Java programming skills
-* Learn and understand different DSA concepts
-* Prepare for coding interviews and placements
-
-## Problems
-
-The repository contains solutions of different difficulty levels:
-
-* Easy
-* Medium
-* Hard
-
-I will continue adding new problems and solutions as I practice.
-
-## Note
-
-These solutions are mainly for **learning and practice**. There may be multiple ways to solve the same problem, and I try to improve my solutions over time.
+[My LeetCode Profile](https://leetcode.com/u/dtYEO2xJky/)
